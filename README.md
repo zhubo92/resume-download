@@ -16,3 +16,5 @@ npm run start
 
 直接打开 http://localhost:8000/ 上传即可
 
+如果没有上传的资源，可以使用 /example/1.jpg
+
